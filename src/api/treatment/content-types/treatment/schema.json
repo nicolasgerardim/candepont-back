@@ -1,0 +1,63 @@
+{
+  "kind": "collectionType",
+  "collectionName": "treatments",
+  "info": {
+    "singularName": "treatment",
+    "pluralName": "treatments",
+    "displayName": "Treatment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "image": {
+      "type": "string"
+    },
+    "imageModal": {
+      "type": "string"
+    },
+    "ByCandeCash": {
+      "type": "string"
+    },
+    "ByCandeCard": {
+      "type": "string"
+    },
+    "ByPiliCash": {
+      "type": "string"
+    },
+    "ByPiliCard": {
+      "type": "string"
+    },
+    "OxigenanteCash": {
+      "type": "string"
+    },
+    "OxigenanteCard": {
+      "type": "string"
+    },
+    "AntiageCash": {
+      "type": "string"
+    },
+    "AntiageCard": {
+      "type": "string"
+    },
+    "LiftCash": {
+      "type": "string"
+    },
+    "LiftCard": {
+      "type": "string"
+    },
+    "ReestructuranteCash": {
+      "type": "string"
+    },
+    "ReestructuranteCard": {
+      "type": "string"
+    }
+  }
+}
