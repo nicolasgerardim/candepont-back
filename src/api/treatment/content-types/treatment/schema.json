@@ -4,7 +4,8 @@
   "info": {
     "singularName": "treatment",
     "pluralName": "treatments",
-    "displayName": "Treatment"
+    "displayName": "Treatment",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -57,6 +58,30 @@
       "type": "string"
     },
     "ReestructuranteCard": {
+      "type": "string"
+    },
+    "ByPiliPrePartyCash": {
+      "type": "string"
+    },
+    "ByPiliPrePartyCard": {
+      "type": "string"
+    },
+    "ByCandePrePartyCash": {
+      "type": "string"
+    },
+    "ByCandePrePartyCard": {
+      "type": "string"
+    },
+    "ByPiliOxigenanteCash": {
+      "type": "string"
+    },
+    "ByPiliOxigenanteCard": {
+      "type": "string"
+    },
+    "ByPiliLiftCard": {
+      "type": "string"
+    },
+    "ByPiliLiftCash": {
       "type": "string"
     }
   }
